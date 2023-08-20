@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
-table, th,td,tr,thead,tbody {
+th,td,tr,thead,tbody,table {
+	border: 1px solid black;
+}
+
+.nest_tbl {
 	border: 1px solid black;
 }
