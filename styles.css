@@ -1,9 +1,10 @@
-
-/* Your CSS Code here. */
 th,td,tr,thead,tbody,table {
 	border: 1px solid black;
+    text-align: center; /* Center text horizontally */
+            vertical-align: middle;
 }
 
-.nest_tbl {
-	border: 1px solid black;
+#html {
+    background-color: black;
+    color: #ffffff;
 }
